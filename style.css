@@ -85,7 +85,7 @@ nav {
 }
 
 .change:hover {
-    color: #132010;
+    color: #132010 !important;
 }
 
 
